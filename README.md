@@ -23,10 +23,7 @@ Size: 700 KB
   <summary>Can an svg be hidden?</summary>
   
 ![an svg](./resources/termtosvg.svg "some other text on hover")
-    ![an svg](./resources/termtosvg.svg "some other text on hover")
 </details>
-
-![an svg](./resources/termtosvg.svg "some other text on hover")
 
 
 ## GIF
