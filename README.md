@@ -19,6 +19,7 @@ https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab
 
 ## SVG
 Size: 700 KB
+Speed: fairly slow
 <details>
   <summary>Can an svg be hidden?</summary>
   
@@ -27,7 +28,8 @@ Size: 700 KB
 
 
 ## GIF
-Size:
+Size: 2MB
+![a gif](./resources/ttygif.gif "some other text on hover")
 
 
 
