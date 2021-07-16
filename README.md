@@ -17,18 +17,25 @@ https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab
 </details>
 
 
-- SVG
+## SVG
 Size: 700 KB
+<details>
+  <summary>Can an svg be hidden?</summary>
+  
+![an svg](./resources/termtosvg.svg "some other text on hover")
+    ![an svg](./resources/termtosvg.svg "some other text on hover")
+</details>
+
 ![an svg](./resources/termtosvg.svg "some other text on hover")
 
 
-- GIF
+## GIF
 Size:
 
 
 
-- mp4
+## mp4
 
-- slideshow
+## slideshow
 TODO
 
